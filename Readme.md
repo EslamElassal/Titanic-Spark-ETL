@@ -9,8 +9,7 @@ Spark ETL titanic Project <br/>
  4. Run ETL to Model the Data
  5. Test 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+ 
 
 
 ### Built With
@@ -22,7 +21,6 @@ Spark ETL titanic Project <br/>
 * Ipython Sql
 * Postgres DataBase
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+ 
 
 
